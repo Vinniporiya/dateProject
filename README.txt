@@ -1,3 +1,7 @@
+Requirements
+1.Python3 
+2.Flask
+
 Web service is present in the api folder 
 Run python code by
 
